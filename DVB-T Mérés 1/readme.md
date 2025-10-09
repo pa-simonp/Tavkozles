@@ -51,28 +51,28 @@ A mérés célja a DVB-T jel paramétereinek ellenőrzése a földfelszíni digi
 </details>
 
 <details>   
-  <summary> A CH45 -ös csatornán mért spektrum </summary>
+  <summary> A CH41 -es csatornán mért spektrum </summary>
   <img width="1100" height="621" alt="image" src="https://github.com/user-attachments/assets/f493c8da-5553-4628-861d-347984f529f1" />
 </details>
 
 <details>   
-  <summary> A CH45 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák </summary>
+  <summary> A CH41 -es csatornán mért jelerősség, jel/zaj viszony, és bithibák </summary>
   <img width="1101" height="620" alt="image" src="https://github.com/user-attachments/assets/556d8785-4579-4bfe-9eb6-3dc3bb662c76" />
 </details>
 
 <details>   
-  <summary> A CH45 -ös csatorna konstellációs diagramja </summary>
+  <summary> A CH41 -es csatorna konstellációs diagramja </summary>
   <img width="1096" height="618" alt="image" src="https://github.com/user-attachments/assets/76ba2058-9370-4c7a-b6bf-2a6b68e31c41" />
 
 </details>
 
 <details>   
-  <summary> A CH45 -ös csatornán a DUNATV HD jelszint és TV adás </summary>
+  <summary> A CH41 -es csatornán a Miskolc TV jelszint és TV adás </summary>
   <img width="1095" height="622" alt="image" src="https://github.com/user-attachments/assets/8ce31168-e0ec-4781-86ef-e301a9e6f4f7" />
 </details>
 
 <details>   
-  <summary> A CH45 -ös csatornán a DUNATV HD műsora </summary>
+  <summary> A CH41 -es csatornán a Miskolc TV műsora </summary>
  <img width="1096" height="618" alt="image" src="https://github.com/user-attachments/assets/8c0622ad-7e0a-4c24-9eb3-7c6310569266" />
 </details>
 
